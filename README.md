@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/district0x/district-ui-router-google-analytics.svg?branch=master)](https://travis-ci.org/district0x/district-ui-router-google-analytics)
 
-Clojurescript [mount](https://github.com/tolitius/mount) + [re-frame](https://github.com/Day8/re-frame) module for a district UI,
+Clojurescript [re-mount](https://github.com/district0x/d0x-INFRA/blob/master/re-mount.md) module,
 that extends [district-ui-router](https://github.com/district0x/district-ui-router) to automatically report page views into Google Analytics. 
 
 ## Installation
