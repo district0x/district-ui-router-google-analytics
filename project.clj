@@ -1,4 +1,4 @@
-(defproject district0x/district-ui-router-google-analytics "1.0.0"
+(defproject district0x/district-ui-router-google-analytics "1.0.1"
   :description "district UI module for reporting page views into Google Analytics"
   :url "https://github.com/district0x/district-ui-router-google-analytics"
   :license {:name "Eclipse Public License"

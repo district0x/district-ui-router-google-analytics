@@ -6,7 +6,7 @@ Clojurescript [re-mount](https://github.com/district0x/d0x-INFRA/blob/master/re-
 that extends [district-ui-router](https://github.com/district0x/district-ui-router) to automatically report page views into Google Analytics. 
 
 ## Installation
-Add `[district0x/district-ui-router-google-analytics "1.0.0"]` into your project.clj  
+Add `[district0x/district-ui-router-google-analytics "1.0.1"]` into your project.clj  
 Include `[district.ui.router-google-analytics]` in your CLJS file, where you use `mount/start`
 
 ## district.ui.router-google-analytics

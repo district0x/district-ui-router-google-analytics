@@ -3,6 +3,7 @@
     [day8.re-frame.forward-events-fx]
     [district.ui.router.events :as router-events]
     [district.ui.router.queries :as router-queries]
+    [district0x.re-frame.google-analytics-fx]
     [re-frame.core :refer [reg-event-fx trim-v reg-fx inject-cofx]]))
 
 
